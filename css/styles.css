@@ -43,6 +43,10 @@ h3{
     font-size: 1.5rem;
     font-family: "Montserrat-light";
 }
+.navbar-toggler-icon{
+    width: 3em;
+    height: 3em;
+}
 
 /* Download Button */
 .download-button{
